@@ -1,0 +1,10 @@
+{
+  "app": "QuickDesk",
+  "issues": [
+    "no authz tests",
+    "hardcoded config",
+    "no rollback",
+    "unstructured logs",
+    "AI output not evaluated"
+  ]
+}
